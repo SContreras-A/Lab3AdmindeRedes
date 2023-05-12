@@ -1,6 +1,6 @@
 ***Desarrollado para la materia Administración de Redes instituida por el profesor Juan Manuel Aranda Lopez King por Juan Camilo Adames, Nicolás Vargas Wilches y Santiago Contreras del programa de ingeniería informática de la Universidad de La Sabana.***
 
-# PRESENTACIÓN DEL PROYECTO
+# PRESENTACIÓN DEL LABORATORIO
 
 En este proyecto se retomará el uso de una topología semiempresarial previamente modificada para ser compatible con IPv6, y se modificará una vez más con el fin de integrar un sistema de soporte y gestión , además de comunicación segura entre Intranets usando diferentes herramientas.
 
