@@ -47,3 +47,6 @@ El dispositivo de red gestionado responderá con los valores actuales de todas l
 La operación Set se utiliza para configurar o modificar un valor en un dispositivo de red. Un cliente SNMP envía una solicitud de Set a un dispositivo de red gestionado, y el dispositivo de red gestionado cambia el valor especificado.Por ejemplo, si un administrador de red quiere cambiar la configuración 
 de una interfaz en un enrutador Cisco, puede enviar una solicitud de Set al OID correspondiente para cambiar la configuración de la interfaz.
 El dispositivo de red gestionado cambiará la configuración de la interfaz según lo especificado en la solicitud de Set, es importante destacar que la operación Set requiere permisos de escritura y autenticación adecuados para evitar cambios no autorizados en la configuración de los dispositivos de red.
+  
+  ## CONCLUSIÓN 
+  Wilches.
